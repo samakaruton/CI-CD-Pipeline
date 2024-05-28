@@ -60,6 +60,7 @@
         <h2>About Us</h2>
         <p>This is a simple PHP website example with a header, navigation, content, and footer.</p>
         <p>PHP is a popular server-side scripting language that is embedded in HTML. random fuckry has been done .</p>
+        <p>random</p>
     </div>
 
     <footer>
